@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Backup|Restore Tabs",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        {"fileSystem": ["write"]}
+    ],
+    "action": {
+        "default_popup": "hello.html",
+        "default_icon": "gmKIT88Ha1z8VBMJFOOH.png"
+    }
+}
