@@ -16,3 +16,4 @@ backupBtn.addEventListener('click', async () => {
     console.log("done")
     doExportToDisk()
 })
+console.log("test")
